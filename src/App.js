@@ -10,8 +10,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <p>Deploy React on Netlify<br />
-        Rexarvind Web Services</p>
+        <p>Deploy React on Netlify From Github</p>
         <a
           className="App-link"
           href="https://reactjs.org"
